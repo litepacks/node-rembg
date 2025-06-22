@@ -1,0 +1,4 @@
+# Exclude test files and images from the package
+*.jpg
+*.png
+example.js 
