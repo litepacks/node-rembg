@@ -1,7 +1,11 @@
 {
   "name": "node-rembg",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A Node.js wrapper for the rembg Python tool to remove image backgrounds.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/litepacks/node-rembg"
+  },
   "main": "index.js",
   "types": "index.d.ts",
   "scripts": {
