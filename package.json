@@ -1,0 +1,25 @@
+{
+  "name": "node-rembg",
+  "version": "1.0.0",
+  "description": "A Node.js wrapper for the rembg Python tool to remove image backgrounds.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rembg",
+    "background-removal",
+    "image-processing",
+    "node-rembg",
+    "remove-background",
+    "remove-background-from-image",
+    "remove-background-from-url",
+    "remove-background-from-images",
+    "remove-background-from-images-from-url",
+    "remove-background-from-images-from-url",
+    "remove-background-from-images-from-url"
+  ],
+  "author": "cond",
+  "license": "MIT"
+} 
